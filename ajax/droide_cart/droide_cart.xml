@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" version="3.1" group="ajax" method="upgrade">
+    <name>Droide cart</name>
+    <version>0.1</version>
+    <description>Adicionar e verificar produtos no carrinho.</description>
+    <creationDate>agosto 2016</creationDate>
+    <copyright>Copyright (C) 2005 - 2015 Open Source Matters. All rights reserved.</copyright>
+    <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+    <author>André Luiz Pereira</author>
+    <authorEmail>and4563@gmail.com</authorEmail>
+    <authorUrl>https://github.com/androidealp</authorUrl>
+    <files>
+        <filename plugin="droide_cart">droide_cart.php</filename>
+        <folder>assets</folder>
+    </files>
+</extension>
